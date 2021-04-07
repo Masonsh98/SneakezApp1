@@ -72,3 +72,11 @@ Allows users to share collectoin and reach out to people that interenst in selli
 * Customer is will be to help of the resouces of knowing current events.
     ``
 *![](https://i.imgur.com/WmTwj8L.jpg)
+
+## User Stories
+
+The following functionality is completed:
+
+- [x] User sees app icon in home screen and styled launch screen.
+- [x] User can hear music on app startup. 
+- [x] User can navigate through the various screens/selections.
